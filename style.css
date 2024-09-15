@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    
+} 
+.home{
+    height: 120px;
+    width: 100%;    
+    background-color: blueviolet;
+    margin-top: 50px;
+    
+    
+}
+.text-four{
+    text-align: center;
+    font-weight: bold;
+    font-size: 110px;
+    
+}
+.one{
+    height: 450px;
+    width: 100%;
+    background-color: aqua;
+    margin-top: 70px;
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.edu-one{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(9, 9, 87);
+    color: #8a2be2;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+}
+.text-one{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 15px;
+    padding-top: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo{
+    height: 25px;
+    width: 30px;
+}
+.ul-main{
+    margin-left: 25px;
+}
+.text-two{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+}
+.text-three{
+    display: inline;
+}
+.text-five{
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+    margin-left: 10px;
+}
+.text-six{
+    display: inline;
+}
+.p-one{
+    display: inline;
+}
+body{
+    display: block;
+    margin: 8px;
+}
+.text-seven{
+    display: inline;
+   
+}
+.p-two{
+    display: inline;
+}
+.li-one{
+    margin-left: 40px;
+}
+.edu-two{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(9, 182, 37);
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+}
+.text-eight{
+    text-align: center;
+    /* padding: 15px; */
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-nine{
+    text-decoration: underline;
+}
+.edu-three{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(9, 182, 37);
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+    font-family: Georgia, serif;
+    font-size: xx-large;
+}
+.text-ten{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bolder;
+
+}
+.ul-one{
+    margin-left: 40px;
+}
+.head-one{
+    text-align: center;
+    /* padding: 15px; */
+    font-size: 4.5rem;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mt-one{
+    margin-left: 40px;
+
+}
